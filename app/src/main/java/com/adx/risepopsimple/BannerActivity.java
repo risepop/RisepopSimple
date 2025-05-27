@@ -121,4 +121,9 @@ public class BannerActivity  extends AppCompatActivity implements View.OnClickLi
 
     }
 
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+        bannerUtils.onDestroy();
+    }
 }
