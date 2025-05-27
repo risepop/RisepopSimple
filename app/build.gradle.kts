@@ -58,7 +58,7 @@ dependencies {
     androidTestImplementation("androidx.test.ext:junit:1.2.1")
     androidTestImplementation("androidx.test.espresso:espresso-core:3.6.1")
 
-    implementation("com.github.risepop:resome:1.0.4")
+    implementation("com.github.risepop:resome:1.0.5")
 
     //解析
     implementation("com.google.code.gson:gson:2.8.6")

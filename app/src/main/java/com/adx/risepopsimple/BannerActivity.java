@@ -9,10 +9,10 @@ import android.widget.Toast;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.risome.adx.adxcore.banner.RSBannerAdView;
-import com.risome.adx.adxcore.banner.RSBannerViewListener;
-import com.risome.adx.adxcore.base.RSAdError;
-import com.risome.adx.adxcore.base.RSAdInfo;
+import com.risepop.adx.adxcore.banner.RSBannerAdView;
+import com.risepop.adx.adxcore.banner.RSBannerViewListener;
+import com.risepop.adx.adxcore.base.RSAdError;
+import com.risepop.adx.adxcore.base.RSAdInfo;
 
 public class BannerActivity  extends AppCompatActivity implements View.OnClickListener {
 

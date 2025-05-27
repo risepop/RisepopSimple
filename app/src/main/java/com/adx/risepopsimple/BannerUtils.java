@@ -3,7 +3,7 @@ package com.adx.risepopsimple;
 import android.text.TextUtils;
 import android.view.ViewGroup;
 
-import com.risome.adx.adxcore.banner.RSBannerAdView;
+import com.risepop.adx.adxcore.banner.RSBannerAdView;
 
 public class BannerUtils {
 

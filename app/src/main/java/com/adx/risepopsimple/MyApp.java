@@ -4,10 +4,10 @@ import android.app.Application;
 
 import androidx.annotation.Nullable;
 
-import com.risome.adx.adxcore.api.RSOpenSDK;
-import com.risome.adx.adxcore.api.RSSDKInitListener;
-import com.risome.adx.adxcore.base.ErrorMsg;
-import com.risome.adx.adxcore.utils.RSSDKLog;
+import com.risepop.adx.adxcore.api.RSOpenSDK;
+import com.risepop.adx.adxcore.api.RSSDKInitListener;
+import com.risepop.adx.adxcore.base.ErrorMsg;
+import com.risepop.adx.adxcore.utils.RSSDKLog;
 
 public class MyApp extends Application {
 
