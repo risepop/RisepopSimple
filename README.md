@@ -10,7 +10,7 @@ Step 1：
    </pre>
 Step 2： dependencies add   
 
-    implementation("com.github.risepop:resome:1.0.4")
+    implementation("com.github.risepop:risepop-adx-android:1.0.6")
 
     //解析
     implementation("com.google.code.gson:gson:2.8.6")
